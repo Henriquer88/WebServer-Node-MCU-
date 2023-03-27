@@ -6,6 +6,7 @@ Criação de um webServer para controle de motores
 
 # Softwares e Hardwares necessários 
 * Keil Studio Online
+* Arduino IDE
 * Nucleo Stm32 F103
 * Placa Node MCU 8266
 * Motor de passo 28BYJ-48
