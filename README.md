@@ -26,7 +26,9 @@ Nesse tutorial iremos mostrar como fazer um webserver para controle de três mot
 
 ## Ligação 
 Conexão entre Nucleo F103 e Node é feita pela as portas RX e TX de ambos os micocontroladorres. 
+
 Node MCU Pinos: D7 RX  F103 Pino TX D8
+
 Node MCU Pinos: D8 TX  F103 Pino RX D2
 
 ## Interface Display Oled
