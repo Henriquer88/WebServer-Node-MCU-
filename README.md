@@ -31,6 +31,9 @@ Node MCU Pinos: D7 RX  F103 Pino TX D8
 
 Node MCU Pinos: D8 TX  F103 Pino RX D2
 
+![nodemcu_nucleo_bb](https://user-images.githubusercontent.com/60757810/228231892-2f9053fb-d793-45da-a3b6-f7aa0c9ef279.png)
+
+
 ## Interface Display Oled
 
 ![WhatsApp Image 2023-03-27 at 16 11 15](https://user-images.githubusercontent.com/60757810/228044194-fe5069d3-4e70-4162-baed-d867583d308f.jpeg)
